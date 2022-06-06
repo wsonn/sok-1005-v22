@@ -1,0 +1,11 @@
+Store_Name,Store_Num,Store_City,Store_County,Store_State,Store_Weather_Station,Store_Location,Store_Drive_Through,Store_Near_School,Store_Competition_Fastfood,Store_Competition_Otherfood,Store_Traveller_Clients,Store_Minority_Clients,Annual_Rent_Estimate
+Power City FreeStand,2,Power City,Power County,North State,Rail City Airport,Free Standing,Yes,Yes,10,25,No,,63000
+West Power StripMall,5,West Power City,Power County,North State,Rail City Airport,Strip Mall,No,No,1,9,No,,48600
+Power City StripMall,7,Power City,Power County,North State,Rail City Airport,Strip Mall,No,No,5,6,No,,54000
+Littletown StripMall,9,Littletown,Appleton County,North State,Appleton Airport,Strip Mall,No,No,7,18,Yes,"Hispanic, Native American",36000
+River City StripMall,11,River City,River County,North State,River City Airport,Strip Mall,No,Yes,8,30,No,,45000
+Rail City BigBox,14,Rail City,Rail County,North State,Appleton Airport,Big Box,No,No,8,22,No,Hispanic,17500
+Lake City StripMall,16,Lake City,Lake County,North State,Lake City Airport,Strip Mall,Yes,Yes,8,3,Yes,Hispanic,41400
+North Town StripMall,19,North Town,Farm County,South State,North Town Airport,Strip Mall,No,Yes,2,20,Yes,Hispanic,37800
+North Town BigBox,23,North Town,Farm County,South State,North Town Airport,Big Box,No,No,6,18,No,Hispanic,"20,700"
+University Town BigBox,24,University Town,River County,North State,River City Airport,Big Box,No,No,2,1,No,,15000
